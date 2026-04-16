@@ -2,6 +2,8 @@
 
 Atividade avaliativa 1 do curso de Introdução à Computação.
 
+O código foi desenvolvido através do Visual Studio Code.
+
 ## Objetivos
 
 O script possui dois objetivos principais:
@@ -67,6 +69,8 @@ Caso estejam de acordo, o descarte será autorizado. Caso algum dos parâmetros 
 ---
 
 ## Resultados obtidos
+
+- O código foi executado atraves do prompt do windows.
 
 ### Analise Reservatorio Status OK
 
