@@ -84,6 +84,7 @@ Caso estejam de acordo, o descarte será autorizado. Caso algum dos parâmetros 
 
 ### Analise Efluente Status Error
 
+![Variáveis do código](Imagens_Projeto1_IC/Analise_efluente_erro.png)
 
-
+---
 
