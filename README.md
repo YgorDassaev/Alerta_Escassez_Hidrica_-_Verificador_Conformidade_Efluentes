@@ -66,4 +66,24 @@ Caso estejam de acordo, o descarte será autorizado. Caso algum dos parâmetros 
 
 ---
 
+## Resultados obtidos
+
+### Analise Reservatorio Status OK
+
+![Variáveis do código](Imagens_Projeto1_IC/Analise1_ok.png)
+
+---
+
+### Analise Reservatorio Status Error
+
+![Variáveis do código](Imagens_Projeto1_IC/Analise2_erro.png)
+
+### Analise Efluente Status OK
+
+![Variáveis do código](Imagens_Projeto1_IC/Analise2_ok.png)
+
+### Analise Efluente Status Error
+
+
+
 
