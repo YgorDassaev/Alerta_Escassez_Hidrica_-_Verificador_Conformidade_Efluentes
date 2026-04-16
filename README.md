@@ -6,4 +6,4 @@ Atividade avaliativa1 do curso de introdução a computação.
 2º Receber parâmetros sobre temperatura e pH de resíduos a serem descartados em um rio e verificar se respeitam os critérios da CONAMA.
 
 
-![Descrição da imagem](images_Projeto1_IC/Tabela_de_cores_terminal_1.png)
+![Descrição da imagem](Imagens_Projeto1_IC/Tabela_de_cores_terminal_1.png)
